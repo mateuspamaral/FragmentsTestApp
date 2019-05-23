@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsTaskApp</string>
+    <string name="btnVerde">Verde</string>
+    <string name="btnVermelho">Vermelho</string>
+    <string name="textGreenFragment">VERDE</string>
+    <string name="textRedFragment">VERMELHO</string>
+</resources>
