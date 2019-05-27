@@ -4,4 +4,7 @@
     <string name="btnVermelho">Vermelho</string>
     <string name="textGreenFragment">VERDE</string>
     <string name="textRedFragment">VERMELHO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
